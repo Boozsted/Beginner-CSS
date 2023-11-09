@@ -1,0 +1,18 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+/* Write your CSS below, don't change the rules above. */
+p{color: red;
+font-size: 20px;}
+#id-selector-demo{color: green;}
+*{text-align: center;}
+
+
+
+/* Note for future self, to select values in css, first grab the
+element we want to select. li for this case, then in brackets type
+value="whatever value"  */
+li[value="4"]{color: blue;}
